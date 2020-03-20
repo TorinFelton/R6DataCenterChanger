@@ -1,4 +1,4 @@
-# R6DataCenterChanger
+# Rainbow Six Siege Server Switcher
 GUI for changing servers in Rainbow Six Siege.
 
 
