@@ -48,57 +48,6 @@ namespace DataCenterChanger
             }
         }
 
-        private void WeuBtn_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                var parser = new FileIniDataParser();
-                IniData data = parser.ReadFile(Properties.Settings.Default.GameSettingsPath);
-
-                data["ONLINE"]["DataCenterHint"] = "weu";
-
-                parser.WriteFile(Properties.Settings.Default.GameSettingsPath, data);
-            }
-            catch
-            {
-                MessageBox.Show("Please choose a valid file");
-            }
-        }
-
-        private void EusBtn_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                var parser = new FileIniDataParser();
-                IniData data = parser.ReadFile(Properties.Settings.Default.GameSettingsPath);
-
-                data["ONLINE"]["DataCenterHint"] = "eus";
-
-                parser.WriteFile(Properties.Settings.Default.GameSettingsPath, data);
-            }
-            catch
-            {
-                MessageBox.Show("Please choose a valid file");
-            }
-        }
-
-        private void SeasBtn_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                var parser = new FileIniDataParser();
-                IniData data = parser.ReadFile(Properties.Settings.Default.GameSettingsPath);
-
-                data["ONLINE"]["DataCenterHint"] = "seas";
-
-                parser.WriteFile(Properties.Settings.Default.GameSettingsPath, data);
-            }
-            catch
-            {
-                MessageBox.Show("Please choose a valid file");
-            }
-        }
-
         private void SwitchServer_Click(object sender, EventArgs e)
         {
             if (servers.Contains(centreName.Text))
