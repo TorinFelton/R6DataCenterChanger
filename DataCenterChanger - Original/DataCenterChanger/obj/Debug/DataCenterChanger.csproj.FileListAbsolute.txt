@@ -1,0 +1,16 @@
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\DataCenterChanger.exe.config
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\DataCenterChanger.exe
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\DataCenterChanger.pdb
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\MetroFramework.Design.dll
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\MetroFramework.dll
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.csprojAssemblyReference.cache
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.Properties.Resources.resources
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.csproj.GenerateResource.cache
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.csproj.CoreCompileInputs.cache
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.csproj.CopyComplete
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.exe
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.pdb
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\obj\Debug\DataCenterChanger.DCC.resources
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\INIFileParser.dll
+C:\Users\torin\source\repos\DataCenterChanger\DataCenterChanger\bin\Debug\INIFileParser.xml
